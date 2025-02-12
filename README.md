@@ -9,7 +9,7 @@
 The objective is to propose combinations and analyze the hints provided on the number of correctly placed digits.  
 The challenge? Find the correct combination in a **minimum number of attempts**!  
 
-## 🎲 How to play?  
+## 🎲 How to play ?  
 
 1. **Start the game** : After running the program, choose the length of the combination to guess.  
 2. **Make a guess** : Enter a combination of digits.  
