@@ -47,7 +47,7 @@ The challenge? Find the correct combination in a **minimum number of attempts**!
 
 ## 💡 Possible improvements 
 
-This project serves as a base for a console game, but it can be enhanced with:
+This project serves as a base for a console game, but it can be enhanced with :
 
   - ✅ Displaying the number of misplaced digits.
   - ✅ Limiting the number of attempts before failure.
