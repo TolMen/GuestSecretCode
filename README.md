@@ -1,7 +1,7 @@
 # GuestSecretCode 🎮🔐  
 
 > **Project created as part of my training for the BTS SIO.**  
-> --> *Version : [French](README.md)* 📖  
+> --> *Version : [Français](README_fr.md)* 📖  
 
 ## 📖 Overview  
 
